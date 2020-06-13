@@ -157,7 +157,6 @@ async def github(ctx, name, github=None):
 
         await ctx.send("해당 정보를 찾을 수 없습니다!")
 
-    
 @client.command()
 async def help(ctx):
 
