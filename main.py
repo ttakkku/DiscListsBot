@@ -167,4 +167,4 @@ async def help(ctx):
     embed.set_footer(text="해당 봇은 파이썬 기반으로 제작되었습니다: DISCLISTS TEAM")
     await ctx.send(embed=embed)
 
-client.run('coken')
+client.run('oken')
